@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+# place it at ~/ or tweak yourself
 LAB_HOME='/labs/'
 DEBUG=False
 def run_command(command=None):
